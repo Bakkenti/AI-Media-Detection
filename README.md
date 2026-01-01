@@ -1,6 +1,5 @@
 AI Generated Media Detection Platform (MVP)
 
-Асинхронный backend-сервис для анализа изображений и видео на предмет AI-генерации.
+An asynchronous backend service for analyzing images and videos for AI generation.
 
-Цель проекта — изучение backend-архитектуры,
-очередей задач и асинхронной обработки.
+The project's goal is to study backend architecture, task queues, and asynchronous processing.
