@@ -1,11 +1,11 @@
+<img src="./assets/img.png" width="164" align="right" alt="AI Media Detection Logo">
 # AI Generated Media Detection Platform
 
 Asynchronous backend service for analyzing images and videos for AI-generated content.
 
 The project focuses on backend architecture and task-based processing.
-![img.png](img.png)
----
 
+---
 ## Current Status
 
 Early backend architecture stage.
