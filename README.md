@@ -1,4 +1,4 @@
-AI Generated Media Detection Platform (MVP)
+AI Generated Media Detection Platform
 
 An asynchronous backend service for analyzing images and videos for AI generation.
 
